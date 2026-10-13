@@ -1,0 +1,16 @@
+# Python cache & build files
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDEs & Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
