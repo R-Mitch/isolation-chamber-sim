@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software or conceptual framework, please cite it as below."
+title: "The Metabolic Firewall: Simulation Suite and Theoretical Framework"
+authors:
+  - family-names: "Independent Researcher"
+    given-names: "Author"
+version: 1.0.0
+date-released: 2026-10-14
+url: "https://github.com/R-Mitch/isolation-chamber-sim"
